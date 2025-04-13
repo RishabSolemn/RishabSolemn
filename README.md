@@ -1,5 +1,5 @@
 - 👀 I’m interested in ...Hi! I'm a passionate high school student deeply interested in cybersecurity, quantitative finance, and ethical hacking. I'm currently learning SQL to build real-world projects and strengthen my
-- foundation in database management and data analysis.
+ foundation in database management and data analysis.
 
 I aim to combine my technical skills with strategic thinking to solve real-world problems — from securing digital systems to analyzing market behavior. I’m also working towards gaining professional experience through 
 freelancing and certifications, while preparing for my future studies.
